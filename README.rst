@@ -1,5 +1,5 @@
 
-Understanding Twitter
+Reinforcement Learning
 ###########################
 
 
@@ -8,13 +8,14 @@ Understanding Twitter
 
 
 :Author:  Tom Bresee
-:Known As: TexasTom
-:Graduate School: Michigan (Applied Data Science)
-:Focus: Advanced Social Media Analytics 
+:Alias: TexasTom
+:Current Graduate School: Michigan (M.S. Applied Data Science)
+:Focus Here: Reinforcement Learning Notes
 
 
 |
 |
+
 
 
 Access
